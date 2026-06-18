@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+streamlit
+
+# built in libraries:
+# pickle
+# pathlib
+
